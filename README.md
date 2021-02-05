@@ -8,4 +8,4 @@
 | Reading  |  Link |
 --------------------
 | Read01  | [Introductory HTML and JavaScript](read01.md) |
-| Read02  | []() |
+| Read02  |
