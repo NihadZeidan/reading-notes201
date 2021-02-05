@@ -5,7 +5,7 @@
 
 
 
-| Reading  |  Link |
---------------------
-| Read01  | [Introductory HTML and JavaScript](read01.md) |
-| Read02  |
+Reading  |  Link 
+---------|----------
+Read01  | [Introductory HTML and JavaScript](read01.md)
+Read02  |
