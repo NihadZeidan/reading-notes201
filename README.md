@@ -7,5 +7,5 @@
 
 Reading | Link 
 ----------------
-Read01  | [Introductory HTML and JavaScript](read01.md)
+Class-01  | [Introductory HTML and JavaScript](class01.md)
 Read02  | []()
