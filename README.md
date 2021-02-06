@@ -1,7 +1,8 @@
-### reading-notes201
+### Code 201 reading notes
 
-#### Code 201 reading notes
-#### Nihad Zeidan &copy; 
+This page is for Code 201 reading assignments. 
+
+###### Nihad Zeidan &copy; 
 
 
 
