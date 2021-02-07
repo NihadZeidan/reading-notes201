@@ -1,11 +1,12 @@
-# reading-notes201
+### Code 201 reading notes
 
-### Reading Code 201
-### This reading notes belong to Nihad Zeidan
+This page is for Code 201 reading assignments. 
+
+###### Nihad Zeidan &copy; 
 
 
 
 Reading | Link 
 --------|-------
 Class-01  | [Introductory HTML and JavaScript](class01.md)
-read02  | []()
+Read02  |
