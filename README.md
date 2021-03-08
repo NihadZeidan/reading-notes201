@@ -1,7 +1,5 @@
 ### Code 201 reading notes
 
-
-
 ###### Nihad Zeidan &copy; 
 
 
