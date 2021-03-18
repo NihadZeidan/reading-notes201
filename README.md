@@ -2,10 +2,6 @@
 
 
 
-
-
-
-
 Reading | Link 
 --------|------
 Read01  | [Introductory HTML and JavaScript](class01.md)
