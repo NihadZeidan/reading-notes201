@@ -10,4 +10,4 @@ Read02  |
 
 
 
-#### N.Zeidan 
+#### N.Zeidan &copy;
